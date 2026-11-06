@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arvynamucay-web.github.io/mikearvynamucay/sitemap.xml
